@@ -1,0 +1,5 @@
+Interactive.c is the source code for a program that modifies images in certain modes. The following commands may be used:
+e - exit; l - load; s - save; ah - apply horizontal; ar - apply rotate
+ac - apply crop; ae - apply extend; ap - apply paste; cf -create filter
+af - apply filter; df - delete filter; di - delete image
+It uses the corresponding functions from imageprocessing.c to modify the images.
